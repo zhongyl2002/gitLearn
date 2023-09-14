@@ -1,11 +1,10 @@
-<!-- 删除 -->
+# git 冲突实践
 
-<!-- 修改 -->
- and the dev branch
+1. git自动合并冲突
 
-<!-- 新增 -->
-this is readme
+2. 自己选择git不能和并的冲突，可以选择：
+   
+   - 原先的内容
+   - 新来的内容
+   - 二者取交集，即两个都保留，当前分支的内容在前面
 
-<!-- dev1分支 -->
-in dev1 branch
-in dev branch
