@@ -8,3 +8,5 @@
    - 新来的内容
    - 二者取交集，即两个都保留，当前分支的内容在前面
 
+解决过程：
+![](./imgs/conflictSolvingFlow.jpg)
